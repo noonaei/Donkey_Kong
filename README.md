@@ -12,7 +12,7 @@ Currently, the game includes three unique levels, each increasing in difficulty 
 
 * The player can choose to save the game progress, review it, or delete it and start a new.
 
-*Everything runs entirely in the command line interface (CMD).
+* Everything runs entirely in the command line interface (CMD).
 
 Use the arrow keys to move Mario, avoid obstacles (or smash them with a hammer (P)), and reach the top of each level to win!
 
