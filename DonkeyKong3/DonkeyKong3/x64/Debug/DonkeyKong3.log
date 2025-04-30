@@ -1,0 +1,15 @@
+﻿  Barrel.cpp
+  Game.cpp
+C:\Users\noona\Desktop\אקדמית\CPP\DonkeyKong3.1\DonkeyKong3\DonkeyKong3\SaveGame.h(17,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\noona\Desktop\אקדמית\CPP\DonkeyKong3.1\DonkeyKong3\DonkeyKong3\Game.cpp(224,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Ghost.cpp
+  LoadGame.cpp
+C:\Users\noona\Desktop\אקדמית\CPP\DonkeyKong3.1\DonkeyKong3\DonkeyKong3\LoadGame.cpp(263,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Mario.cpp
+  SaveGame.cpp
+C:\Users\noona\Desktop\אקדמית\CPP\DonkeyKong3.1\DonkeyKong3\DonkeyKong3\SaveGame.h(17,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  SmartGhost.cpp
+  main.cpp
+C:\Users\noona\Desktop\אקדמית\CPP\DonkeyKong3.1\DonkeyKong3\DonkeyKong3\SaveGame.h(17,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  DonkeyKong3.vcxproj -> C:\Users\noona\Desktop\אקדמית\CPP\DonkeyKong3.1\DonkeyKong3\x64\Debug\DonkeyKong3.exe

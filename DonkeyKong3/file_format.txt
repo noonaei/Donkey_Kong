@@ -1,0 +1,25 @@
+The game's behavior is deterministic under the same inputs:
+- **Barrel Initial Direction**: Randomized but always generated from a constant seed.
+- **Ghost Movement**:
+  - Ghosts move randomly, but their **seed is based on their spawn position**.
+  - Some ghosts **can climb ladders**, and their **vertical movement depends on Mario's position**.
+- **Conclusion**: Only **Mario’s movement needs to be recorded**, since all other behaviors follow a fixed pattern based on initial conditions.
+
+---
+
+## 2. Steps File (`.steps`)
+The `.steps` file records **Mario’s movement** during gameplay.
+Each level has a `.steps` file named.
+the format for the steps file is:
+t=<time>,Mario,dir=<key>
+
+when t is the number of playgame loops passed and key is the key the user pressed
+
+## 3. Result File (`.result`)
+The `.result` file contains important game events.
+for the result file the format is
+t=<time>,Mario,death / t=<time>,Mario,victory  
+depending on the event,
+score=<points gained on this lvl> 
+at the end of the file
+
