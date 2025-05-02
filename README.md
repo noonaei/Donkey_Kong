@@ -14,6 +14,6 @@ Currently, the game includes three unique levels, each increasing in difficulty 
 
 * Everything runs entirely in the command line interface (CMD).
 
-Use the arrow keys to move Mario, avoid obstacles (or smash them with a hammer (P)), and reach the top of each level to win!
+Use the A, W, D, S keys to move Mario, avoid obstacles (or smash them with a hammer (P)), and reach the top of each level to win!
 
 
